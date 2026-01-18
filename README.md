@@ -48,3 +48,11 @@ streamlit run app.py
 1. May not always reflect the current date or time; future events could be misclassified.
 2. Web sources can be outdated, affecting verification accuracy.
 3. AI interpretation may misjudge nuanced or context-dependent claims.
+
+## CSV Export
+The app allows exporting all claims with:
+1. Claim text
+2. Verification status
+3. Explanation
+4. Evidence snippets
+5. Source links
